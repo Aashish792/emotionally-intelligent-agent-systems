@@ -95,7 +95,3 @@ Coming soon: contribution guidelines, advanced modules (e.g., reinforcement lear
 
 > Designed by Aashish K C • [GitHub](https://github.com/Aashish792)
 ```
-
----
-
-Let me know when you're ready to publish the project link on your CV — or if you'd like help setting up `setup.py` for making it pip-installable as a future library!
