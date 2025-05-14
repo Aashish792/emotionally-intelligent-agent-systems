@@ -78,13 +78,6 @@ python tests/test_agent.py
 python tests/test_emotion_model.py
 ```
 
----
-
-## 🎓 Academic Context
-
-This project is being developed as part of a PhD research application to the University of Melbourne, under the guidance of research themes led by **Prof. Leon Sterling**. The aim is to explore emotionally intelligent computing through agent-based modeling and co-designed interaction frameworks.
-
----
 
 
 ## 🤝 Contributions
